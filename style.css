@@ -35,7 +35,7 @@ body{
 /*   *******   refrences   *******   */
 .Refrencesection{
 	width: 100%;
-	height: 500vh;
+	height: 100vh;
 	background-color: var(--bg-clr-one);
 	padding: 75px 8% 60px;
 
